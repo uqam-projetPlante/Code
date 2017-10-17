@@ -1,280 +1,0 @@
-10
-
-dir
-0
-https://github.com/uqam-projetPlante/Code.git/src/DEVICE_EXAMPLE3/DEVICE_EXAMPLE3/src/ASF/sam0/utils/cmsis/samd21/include/instance
-https://github.com/uqam-projetPlante/Code.git
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-
-
-
-
-
-
-
-
-
-
-
-503436bd-817f-ceea-cf0c-ce57b7db7bff
-
-tc3.h
-file
-
-
-
-add
-
-usb.h
-file
-
-
-
-add
-
-tc4.h
-file
-
-
-
-add
-
-tc5.h
-file
-
-
-
-add
-
-dsu.h
-file
-
-
-
-add
-
-tc6.h
-file
-
-
-
-add
-
-tc7.h
-file
-
-
-
-add
-
-dmac.h
-file
-
-
-
-add
-
-gclk.h
-file
-
-
-
-add
-
-mtb.h
-file
-
-
-
-add
-
-pac0.h
-file
-
-
-
-add
-
-port.h
-file
-
-
-
-add
-
-pac1.h
-file
-
-
-
-add
-
-pac2.h
-file
-
-
-
-add
-
-dac.h
-file
-
-
-
-add
-
-rtc.h
-file
-
-
-
-add
-
-sbmatrix.h
-file
-
-
-
-add
-
-tcc0.h
-file
-
-
-
-add
-
-tcc1.h
-file
-
-
-
-add
-
-tcc2.h
-file
-
-
-
-add
-
-i2s.h
-file
-
-
-
-add
-
-wdt.h
-file
-
-
-
-add
-
-eic.h
-file
-
-
-
-add
-
-sysctrl.h
-file
-
-
-
-add
-
-ac1.h
-file
-
-
-
-add
-
-sercom0.h
-file
-
-
-
-add
-
-evsys.h
-file
-
-
-
-add
-
-sercom1.h
-file
-
-
-
-add
-
-sercom2.h
-file
-
-
-
-add
-
-sercom3.h
-file
-
-
-
-add
-
-pm.h
-file
-
-
-
-add
-
-sercom4.h
-file
-
-
-
-add
-
-sercom5.h
-file
-
-
-
-add
-
-ac.h
-file
-
-
-
-add
-
-nvmctrl.h
-file
-
-
-
-add
-
-adc.h
-file
-
-
-
-add
-

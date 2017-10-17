@@ -1,70 +1,0 @@
-10
-
-dir
-0
-https://github.com/uqam-projetPlante/Code.git/src/DEVICE_EXAMPLE3/DEVICE_EXAMPLE3/src/config
-https://github.com/uqam-projetPlante/Code.git
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-
-
-
-
-
-
-
-
-
-
-
-503436bd-817f-ceea-cf0c-ce57b7db7bff
-
-conf_board.h
-file
-
-
-
-add
-
-conf_usb.h
-file
-
-
-
-add
-
-conf_example.h
-file
-
-
-
-add
-
-conf_extint.h
-file
-
-
-
-add
-
-conf_clocks.h
-file
-
-
-
-add
-
-conf_sleepmgr.h
-file
-
-
-
-add
-

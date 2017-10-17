@@ -1,70 +1,0 @@
-10
-
-dir
-0
-https://github.com/uqam-projetPlante/Code.git/src/SparkNode8/Device_Startup
-https://github.com/uqam-projetPlante/Code.git
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-
-
-
-
-
-
-
-
-
-
-
-503436bd-817f-ceea-cf0c-ce57b7db7bff
-
-samd21j18a_flash.ld
-file
-
-
-
-add
-
-startup_samd21.c.studiobackup
-file
-
-
-
-add
-
-startup_samd21.c
-file
-
-
-
-add
-
-samd21j18a_sram.ld
-file
-
-
-
-add
-
-system_samd21.c
-file
-
-
-
-add
-
-syscalls.c
-file
-
-
-
-add
-

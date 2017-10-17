@@ -1,91 +1,0 @@
-10
-
-dir
-0
-https://github.com/uqam-projetPlante/Code.git/src/Antoine/SparkNode8/Release
-https://github.com/uqam-projetPlante/Code.git
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-
-
-
-
-
-
-
-
-
-
-
-503436bd-817f-ceea-cf0c-ce57b7db7bff
-
-USBloopback.map
-file
-
-
-
-add
-
-Device_Startup
-dir
-
-
-
-add
-
-samd
-dir
-
-
-
-add
-
-main.d
-file
-
-
-
-add
-
-usb_requests.d
-file
-
-
-
-add
-
-common
-dir
-
-
-
-add
-
-usb.d
-file
-
-
-
-add
-
-makedep.mk
-file
-
-
-
-add
-
-Makefile
-file
-
-
-
-add
-
