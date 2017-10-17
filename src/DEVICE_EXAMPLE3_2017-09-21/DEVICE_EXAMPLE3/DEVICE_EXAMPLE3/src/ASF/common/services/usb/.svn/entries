@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/DEVICE_EXAMPLE3_2017-09-21/DEVICE_EXAMPLE3/DEVICE_EXAMPLE3/src/ASF/common/services/usb
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+usb_protocol.h
+file
+
+
+
+add
+
+usb_atmel.h
+file
+
+
+
+add
+
+class
+dir
+
+
+
+add
+
+udc
+dir
+
+
+
+add
+

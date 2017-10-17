@@ -1,0 +1,47 @@
+Hi Michiel,
+
+Here are the DMA driver .h/c files.
+
+Basic use case:
+
+-------------------------------------------------------------------------------------------------------------------------------
+#include "DMA_driver.h"
+
+/* SPI buffer length*/
+#define BUF_LENGTH 20
+
+/* SPI buffer */
+uint8_t buffer_tx[BUF_LENGTH] = {
+	0x01, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07, 0x08, 0x09, 0x0A,
+	0x0B, 0x0C, 0x0D, 0x0E, 0x0F, 0x10, 0x11, 0x12, 0x13, 0x14,
+};
+
+int main(void)
+{
+        spiInit1();
+
+	DMA_init(buffer_tx, BUF_LENGTH );
+	DMA_start_transfer();
+
+	while (true)
+	{
+
+	}
+}
+
+// triggers when the transmission of the buffer is completed
+void DMAC_Handler(void)
+{
+	// modify of the buffer as you wish, example : 
+	//buffer_tx = fifo buffer;
+	// transmit the buffer
+	DMA_start_transfer();		
+}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+The buffer is transmited without CPU intervention, then the DMA transfer complete interrupt triggers, you can modify the buffer and resend it or do other operations in DMAC_Handler.
+
+Hope this helps,
+
+Antoine

@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/Antoine/V5EvalKitGUI/V5EvalKitGUI/Properties
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+AssemblyInfo.cs
+file
+
+
+
+add
+
+Settings.settings
+file
+
+
+
+add
+
+Settings.Designer.cs
+file
+
+
+
+add
+
+Resources.resx
+file
+
+
+
+add
+
+Resources.Designer.cs
+file
+
+
+
+add
+

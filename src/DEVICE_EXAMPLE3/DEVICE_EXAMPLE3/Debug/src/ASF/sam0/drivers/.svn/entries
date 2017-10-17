@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/DEVICE_EXAMPLE3/DEVICE_EXAMPLE3/Debug/src/ASF/sam0/drivers
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+nvm
+dir
+
+
+
+add
+
+port
+dir
+
+
+
+add
+
+system
+dir
+
+
+
+add
+
+sercom
+dir
+
+
+
+add
+
+usb
+dir
+
+
+
+add
+
+extint
+dir
+
+
+
+add
+
+i2s
+dir
+
+
+
+add
+

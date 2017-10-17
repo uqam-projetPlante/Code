@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>LibUsbDotNet</id>
+    <version>2.2.8</version>
+    <title>LibUsbDotNet</title>
+    <authors>Travis Robinson</authors>
+    <owners>Travis Robinson</owners>
+    <projectUrl>http://sourceforge.net/projects/libusbdotnet/</projectUrl>
+    <iconUrl>http://c.fsdn.com/allura/p/libusbdotnet/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET C# USB library for WinUSB, LibUsb-Win32, and libusb-1.0. Using the common device classes, applications work with all operating systems and drivers without modification. Lots of example code. Open source software at sourceforge.net.</description>
+    <summary>Mirror of binaries available at sourceforge.net</summary>
+    <tags />
+  </metadata>
+</package>

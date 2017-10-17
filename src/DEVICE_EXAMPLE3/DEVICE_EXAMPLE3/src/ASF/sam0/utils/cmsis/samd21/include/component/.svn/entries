@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/DEVICE_EXAMPLE3/DEVICE_EXAMPLE3/src/ASF/sam0/utils/cmsis/samd21/include/component
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+usb.h
+file
+
+
+
+add
+
+dsu.h
+file
+
+
+
+add
+
+i2s.h
+file
+
+
+
+add
+
+tcc_lighting.h
+file
+
+
+
+add
+
+wdt.h
+file
+
+
+
+add
+
+eic.h
+file
+
+
+
+add
+
+sysctrl.h
+file
+
+
+
+add
+
+pac.h
+file
+
+
+
+add
+
+dmac.h
+file
+
+
+
+add
+
+tc.h
+file
+
+
+
+add
+
+tcc.h
+file
+
+
+
+add
+
+evsys.h
+file
+
+
+
+add
+
+pm.h
+file
+
+
+
+add
+
+hmatrixb.h
+file
+
+
+
+add
+
+gclk.h
+file
+
+
+
+add
+
+mtb.h
+file
+
+
+
+add
+
+ac.h
+file
+
+
+
+add
+
+port.h
+file
+
+
+
+add
+
+nvmctrl.h
+file
+
+
+
+add
+
+adc.h
+file
+
+
+
+add
+
+dac.h
+file
+
+
+
+add
+
+rtc.h
+file
+
+
+
+add
+
+sercom.h
+file
+
+
+
+add
+

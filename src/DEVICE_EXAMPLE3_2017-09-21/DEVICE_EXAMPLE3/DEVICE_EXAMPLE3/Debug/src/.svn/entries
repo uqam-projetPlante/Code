@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/DEVICE_EXAMPLE3_2017-09-21/DEVICE_EXAMPLE3/DEVICE_EXAMPLE3/Debug/src
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+flash.d
+file
+
+
+
+add
+
+usart.d
+file
+
+
+
+add
+
+LCD.d
+file
+
+
+
+add
+
+application.d
+file
+
+
+
+add
+
+WM8731_Test.d
+file
+
+
+
+add
+
+OPT3001.d
+file
+
+
+
+add
+
+WM8731.d
+file
+
+
+
+add
+
+keypad.d
+file
+
+
+
+add
+
+testbench.d
+file
+
+
+
+add
+
+MMA8491Q.d
+file
+
+
+
+add
+
+clockout.d
+file
+
+
+
+add
+
+config
+dir
+
+
+
+add
+
+main.d
+file
+
+
+
+add
+
+Si7021.d
+file
+
+
+
+add
+
+ASF
+dir
+
+
+
+add
+
+RTC.d
+file
+
+
+
+add
+

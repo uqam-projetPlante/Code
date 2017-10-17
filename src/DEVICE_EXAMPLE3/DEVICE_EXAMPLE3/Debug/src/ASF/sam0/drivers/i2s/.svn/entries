@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/DEVICE_EXAMPLE3/DEVICE_EXAMPLE3/Debug/src/ASF/sam0/drivers/i2s
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+i2s.d
+file
+
+
+
+add
+
+quick_start
+dir
+
+
+
+add
+
+quick_start_dma
+dir
+
+
+
+add
+

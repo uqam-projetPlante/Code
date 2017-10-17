@@ -1,0 +1,42 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/DEVICE_EXAMPLE3/DEVICE_EXAMPLE3/src/ASF/sam0/boards/samd21_xplained_pro
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+samd21_xplained_pro.h
+file
+
+
+
+add
+
+board_init.c
+file
+
+
+
+add
+

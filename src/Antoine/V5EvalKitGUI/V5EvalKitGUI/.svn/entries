@@ -1,0 +1,259 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/Antoine/V5EvalKitGUI/V5EvalKitGUI
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+connectForm.Designer.cs
+file
+
+
+
+add
+
+confViewForm.resx
+file
+
+
+
+add
+
+SettingsForm.Designer.cs
+file
+
+
+
+add
+
+MainForm.resx
+file
+
+
+
+add
+
+SettingsForm.cs
+file
+
+
+
+add
+
+USBmanager.cs
+file
+
+
+
+add
+
+LoggingForm.resx
+file
+
+
+
+add
+
+Properties
+dir
+
+
+
+add
+
+connectForm.resx
+file
+
+
+
+add
+
+confViewForm.Designer.cs
+file
+
+
+
+add
+
+bin
+dir
+
+
+
+add
+
+confViewForm.cs
+file
+
+
+
+add
+
+iniParser.txt
+file
+
+
+
+add
+
+MainForm.Designer.cs
+file
+
+
+
+add
+
+MainForm.cs
+file
+
+
+
+add
+
+LoggingForm.Designer.cs
+file
+
+
+
+add
+
+AboutForm.resx
+file
+
+
+
+add
+
+LoggingForm.cs
+file
+
+
+
+add
+
+V5EvalKitGUI.csproj
+file
+
+
+
+add
+
+connectForm.cs
+file
+
+
+
+add
+
+packages.config
+file
+
+
+
+add
+
+iniFile.cs
+file
+
+
+
+add
+
+App.config
+file
+
+
+
+add
+
+MainForm.Render.cs
+file
+
+
+
+add
+
+V5EvalKitGUI.csproj.user
+file
+
+
+
+add
+
+AboutForm.Designer.cs
+file
+
+
+
+add
+
+AboutForm.cs
+file
+
+
+
+add
+
+sparkIcon.ico
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+SettingsForm.resx
+file
+
+
+
+add
+
+nodePanel.cs
+file
+
+
+
+add
+
+obj
+dir
+
+
+
+add
+
+Program.cs
+file
+
+
+
+add
+

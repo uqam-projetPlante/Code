@@ -1,0 +1,15 @@
+c:\users\laporte_g\documents\visual studio 2013\Projects\EvalKitDebug\EvalKitDebug\bin\Debug\EvalKitDebug.exe.config
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\EvalKitDebug\EvalKitDebug\bin\Debug\EvalKitDebug.exe.config
+C:\Users\Gabriel Morin\Documents\Visual Studio 2013\Projects\EvalKitDebug\EvalKitDebug\bin\Debug\EvalKitDebug.exe.config
+C:\Users\Gabriel Morin\Documents\Visual Studio 2013\Projects\EvalKitDebug\EvalKitDebug\bin\Debug\EvalKitDebug.exe
+C:\Users\Gabriel Morin\Documents\Visual Studio 2013\Projects\EvalKitDebug\EvalKitDebug\bin\Debug\EvalKitDebug.pdb
+C:\Users\Gabriel Morin\Documents\Visual Studio 2013\Projects\EvalKitDebug\EvalKitDebug\bin\Debug\LibUsbDotNet.dll
+C:\Users\Gabriel Morin\Documents\Visual Studio 2013\Projects\EvalKitDebug\EvalKitDebug\obj\Debug\EvalKitDebug.exe
+C:\Users\Gabriel Morin\Documents\Visual Studio 2013\Projects\EvalKitDebug\EvalKitDebug\obj\Debug\EvalKitDebug.pdb
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\EvalKitDebug\EvalKitDebug\bin\Debug\EvalKitDebug.exe.config
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\EvalKitDebug\EvalKitDebug\bin\Debug\EvalKitDebug.exe
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\EvalKitDebug\EvalKitDebug\bin\Debug\EvalKitDebug.pdb
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\EvalKitDebug\EvalKitDebug\bin\Debug\LibUsbDotNet.dll
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\EvalKitDebug\EvalKitDebug\obj\Debug\EvalKitDebug.exe
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\EvalKitDebug\EvalKitDebug\obj\Debug\EvalKitDebug.pdb
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\EvalKitDebug\EvalKitDebug\obj\Debug\EvalKitDebug.csprojResolveAssemblyReference.cache

@@ -1,0 +1,294 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/SparkNode8/Debug
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+flash.d
+file
+
+
+
+add
+
+hardware.d
+file
+
+
+
+add
+
+Device_Startup
+dir
+
+
+
+add
+
+SparkNode8.elf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+fifo_byte.d
+file
+
+
+
+add
+
+WM8731.d
+file
+
+
+
+add
+
+USBloopback.srec
+file
+
+
+
+add
+
+usb_requests.d
+file
+
+
+
+add
+
+Si7021.d
+file
+
+
+
+add
+
+SparkNode8.srec
+file
+
+
+
+add
+
+USBloopback.bin
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+USBloopback.eep
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+radio.d
+file
+
+
+
+add
+
+USBloopback.map
+file
+
+
+
+add
+
+audio.d
+file
+
+
+
+add
+
+samd
+dir
+
+
+
+add
+
+SparkNode8.bin
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+application.d
+file
+
+
+
+add
+
+SparkNode8.eep
+file
+
+
+
+add
+
+USBloopback.hex
+file
+
+
+
+add
+
+OPT3001.d
+file
+
+
+
+add
+
+common
+dir
+
+
+
+add
+
+SparkNode8.map
+file
+
+
+
+add
+
+DMA_driver.d
+file
+
+
+
+add
+
+SparkNode8.hex
+file
+
+
+
+add
+
+MMA8491Q.d
+file
+
+
+
+add
+
+USBloopback.lss
+file
+
+
+
+add
+
+main.d
+file
+
+
+
+add
+
+USBloopback.elf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+usb.d
+file
+
+
+
+add
+
+makedep.mk
+file
+
+
+
+add
+
+Sensors.d
+file
+
+
+
+add
+
+SparkNode8.lss
+file
+
+
+
+add
+

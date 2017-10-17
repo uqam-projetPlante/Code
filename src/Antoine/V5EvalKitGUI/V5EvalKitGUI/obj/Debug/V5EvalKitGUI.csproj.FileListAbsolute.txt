@@ -1,0 +1,88 @@
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe.config
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.pdb
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\bin\Debug\LibUsbDotNet.dll
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.AboutForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.confViewForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.connectForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.LoggingForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.SettingsForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.MainForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.Properties.Resources.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.csproj.GenerateResource.Cache
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.exe
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.pdb
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI - VSE2013\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe.config
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.pdb
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\LibUsbDotNet.dll
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.AboutForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.confViewForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.connectForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.LoggingForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.SettingsForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.MainForm.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.Properties.Resources.resources
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.csproj.GenerateResource.Cache
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.exe
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.pdb
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe.config
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.exe
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.pdb
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.AboutForm.resources
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.confViewForm.resources
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.connectForm.resources
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.LoggingForm.resources
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.SettingsForm.resources
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.MainForm.resources
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.Properties.Resources.resources
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.csproj.GenerateResource.Cache
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.pdb
+E:\2017-06-20\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\LibUsbDotNet.dll
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe.config
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.exe
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.pdb
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.pdb
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\LibUsbDotNet.dll
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.AboutForm.resources
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.confViewForm.resources
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.connectForm.resources
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.LoggingForm.resources
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.SettingsForm.resources
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.MainForm.resources
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.Properties.Resources.resources
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.csproj.GenerateResource.Cache
+C:\Users\laporte_g.GENIE\Documents\Visual Studio 2013\Projects\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Morin\Documents\Unis\UWBproject\EvalKits\V5\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.csprojResolveAssemblyReference.cache
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe.config
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.exe
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.pdb
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.pdb
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\LibUsbDotNet.dll
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.AboutForm.resources
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.confViewForm.resources
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.connectForm.resources
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.LoggingForm.resources
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.SettingsForm.resources
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.MainForm.resources
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.Properties.Resources.resources
+E:\2017-07-14\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.csproj.GenerateResource.Cache
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe.config
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.exe
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.pdb
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.exe
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\V5EvalKitGUI.pdb
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\bin\Debug\LibUsbDotNet.dll
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.AboutForm.resources
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.confViewForm.resources
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.connectForm.resources
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.LoggingForm.resources
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.SettingsForm.resources
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.MainForm.resources
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.Properties.Resources.resources
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.csproj.GenerateResource.Cache
+C:\Users\etudiant\Documents\Atmel Studio\7.0\EvalKit\V5EvalKitGUI\V5EvalKitGUI\obj\Debug\V5EvalKitGUI.csprojResolveAssemblyReference.cache

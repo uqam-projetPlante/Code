@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/DEVICE_EXAMPLE3_2017-09-21/DEVICE_EXAMPLE3/DEVICE_EXAMPLE3/src/ASF/common/services/usb/class/cdc/device
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+udi_cdc.h
+file
+
+
+
+add
+
+udi_cdc_conf.h
+file
+
+
+
+add
+
+udi_cdc_desc.c
+file
+
+
+
+add
+
+example
+dir
+
+
+
+add
+
+udi_cdc.c
+file
+
+
+
+add
+

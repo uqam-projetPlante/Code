@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/DEVICE_EXAMPLE3/DEVICE_EXAMPLE3/Debug/src/ASF/sam0/drivers/sercom/usart
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+quick_start_callback
+dir
+
+
+
+add
+
+quick_start
+dir
+
+
+
+add
+
+quick_start_dma
+dir
+
+
+
+add
+
+quick_start_lin
+dir
+
+
+
+add
+

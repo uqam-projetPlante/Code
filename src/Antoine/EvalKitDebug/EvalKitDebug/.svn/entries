@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/Antoine/EvalKitDebug/EvalKitDebug
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+packages.config
+file
+
+
+
+add
+
+App.config
+file
+
+
+
+add
+
+EvalKitDebug.csproj
+file
+
+
+
+add
+
+bin
+dir
+
+
+
+add
+
+USBmanager.cs
+file
+
+
+
+add
+
+obj
+dir
+
+
+
+add
+
+Program.cs
+file
+
+
+
+add
+
+Properties
+dir
+
+
+
+add
+

@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://github.com/uqam-projetPlante/Code.git/src/Antoine/SparkNode8/common
+https://github.com/uqam-projetPlante/Code.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+503436bd-817f-ceea-cf0c-ce57b7db7bff
+
+util.h
+file
+
+
+
+add
+
+hw.h
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
